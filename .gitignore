@@ -1,0 +1,52 @@
+# Pycharm
+.idea/
+.ipynb_checkpoints/
+# Vimg
+*.DS_Store
+*~
+*.swp
+*.swo
+
+
+
+# Basics
+*.pyc
+__pycache__
+
+# Eclipse
+.project
+.pydevproject
+android_jars/
+.venv*
+
+.coverage
+ipython/
+
+
+media/
+
+*.sqlite3
+mysite.log
+*.sqlite3
+db.sqlite3*
+db.sqlite3-journal
+
+
+*.fuse*
+virtual_environment/
+
+# Build Folders
+*/build/*
+
+# Docs Folders
+docs/*
+
+# Scripts to save or delete data
+scripts/*
+
+env_*
+*.rdb
+
+tmp/*
+
+*.sqlite3-journal
